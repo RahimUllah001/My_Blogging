@@ -1,2 +1,2 @@
 # My_Blogging
-My blogging usiing django framwork
+Developing Blogging website using django framwork
